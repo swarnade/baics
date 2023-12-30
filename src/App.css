@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.Image{height: 200px;width: 200px;}
+.Main{
+  text-align: center;
+
+}
+a{font-size: 200%;text-decoration: none;}
